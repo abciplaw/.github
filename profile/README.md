@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://abcip.co.kr"><img src="https://github.com/abciplaw/korean-ip-skills/raw/main/assets/abcip-logo.png" alt="ABC특허법률사무소 · ABC IP LAW" width="420"></a>
+  <a href="https://abcip.co.kr"><img src="https://github.com/abciplaw/startup-ip-skills/raw/main/assets/abcip-logo.png" alt="ABC특허법률사무소 · ABC IP LAW" width="420"></a>
 </p>
 
 <p align="center">
@@ -23,18 +23,19 @@
 4. 출원할 만한 발명마다 발명신고서를 대신할 **기술 설명서**를 씁니다.
 
 ```text
-/plugin marketplace add abciplaw/korean-ip-skills
-/plugin install abciplaw@korean-ip-skills
+/plugin marketplace add abciplaw/startup-ip-skills
+/plugin install abciplaw@startup-ip-skills
 /abciplaw:patent-portfolio
 ```
 
-결과물은 프로젝트 안 `patent-portfolio/` 폴더에만 저장되고, 사용자가 직접 보내기 전에는 어디로도 전달되지 않습니다. Codex·Gemini CLI·기타 에이전트에서 쓰는 방법은 [설치 안내](https://github.com/abciplaw/korean-ip-skills/blob/main/abciplaw/README.md)에 있습니다.
+결과물은 프로젝트 안 `patent-portfolio/` 폴더에만 저장되고, 사용자가 직접 보내기 전에는 어디로도 전달되지 않습니다. Codex·Gemini CLI·기타 에이전트에서 쓰는 방법은 [설치 안내](https://github.com/abciplaw/startup-ip-skills/blob/main/abciplaw/README.md)에 있습니다.
 
 ## 저장소
 
 | 저장소 | 내용 |
 |---|---|
-| [korean-ip-skills](https://github.com/abciplaw/korean-ip-skills) | 한국 특허·상표 업무용 에이전트 스킬 모음. 스타트업용 `abciplaw`(특허 포트폴리오 발굴)와 실무자용 `korean-ip` 플러그인 |
+| [startup-ip-skills](https://github.com/abciplaw/startup-ip-skills) | 스타트업·중소기업 개발팀이 직접 돌리는 스킬. 특허 포트폴리오 발굴(`abciplaw` 플러그인) |
+| [korean-ip-skills](https://github.com/abciplaw/korean-ip-skills) | 특허·상표 실무자용 에이전트 스킬(`korean-ip` 플러그인) |
 
 ## 검토 의뢰
 
